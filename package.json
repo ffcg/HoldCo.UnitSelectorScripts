@@ -1,0 +1,22 @@
+{
+  "name": "holdco.unitselectorscripts",
+  "version": "1.0.0",
+  "description": "Script from Daniel (Vinnovera) for transforming SVG and Home-data to Unit Selector/Navigator JSON-files with views.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffcg/HoldCo.UnitSelectorScripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffcg/HoldCo.UnitSelectorScripts/issues"
+  },
+  "homepage": "https://github.com/ffcg/HoldCo.UnitSelectorScripts#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}

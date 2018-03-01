@@ -1,0 +1,3084 @@
+{
+    "apts": {
+        "LVU0054767": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054776": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054773": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054770": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054766": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054769": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054772": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054775": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054749": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054757": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054753": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054765": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054761": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054752": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054748": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054764": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054756": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054760": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054747": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054751": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054758": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054762": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054754": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054750": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054746": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054755": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054763": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054759": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054711": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054719": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054723": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054743": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054739": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054735": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054731": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054727": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054715": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054745": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054714": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054710": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054722": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054726": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054742": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054738": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054718": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054730": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054734": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054713": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054709": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054744": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054740": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054724": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054720": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054716": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054732": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054728_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054736": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054712": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054721": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054725": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054717": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054729": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054741": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054733": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054737": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054685": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054682": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054694": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054700": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054703": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054691": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054706": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054697": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054688": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054708": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054684": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054681": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054702": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054687": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054705": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054699": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054693": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054690": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054696": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054642": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146304": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146307": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054620": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0109932": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054608": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054632": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054614": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054626": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054638": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054639": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146302": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146305": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054627": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054633": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054609": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146310": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054621": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146308": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054615": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054645": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054649": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054679": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054657": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054661": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054665": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054677": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054653": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054673": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054669": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054678": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054646": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054643": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054670": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054674": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054666": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054662": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054658": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054654": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054650": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054683": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054680": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054704": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054689": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054701": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054692": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054686": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054698": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054695": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054707": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054625": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054619": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054631": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054613": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0109931": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054607": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054637": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054630": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054612": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054624": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0109930": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054636": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054618": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146313": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054641": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054856": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054860": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054872": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054864": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054888": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054876": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054884": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054868": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054880": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054859": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054863": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054879": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054883": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054875": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054891": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054871": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054867": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054887": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054808": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054806": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054820": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054838": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054850": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054826": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054844": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054814": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054832": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054813": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054811": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054837": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054855": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054831": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054849": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054825": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054819": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054843": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054817": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054823": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054841": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054853": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054847": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054835": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054829": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054812": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054830": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054824": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054854": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054836": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054842": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054848": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054818": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054807": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054858": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054846": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054822": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054810": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054840": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054816": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054828": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054834": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054852": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054857": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054809": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054839": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054833": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054821": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054827": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054851": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054815": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054845": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054890": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054862": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054866": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054886": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054874": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054870": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054882": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054878": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054881": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054873": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054889": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054865": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054861": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054885": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054869": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054877": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054640": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054635": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054623": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146312": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054617": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054611": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0109929": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054629": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054704_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054694_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054697_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054658_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054646_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054644": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054659": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054655": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054671": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054675": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054667": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054647": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054663": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054651": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054648": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054668": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054660": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054664": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054676": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054672": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054652": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054656": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054728": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146303": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146309": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146311": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054622": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054634": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054610": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054616": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054628": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0146306": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054777": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054768": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054774": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054771": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054794": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054790": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054778": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054782": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054786": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054802": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054798": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054805": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054797": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054785": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054793": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054801": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054789": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054781": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054805_1_": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054780": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054784": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054800": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054796": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054788": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054804": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054792": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054779": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054803": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054791": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054799": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054783": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054795": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU0054787": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        }
+    }
+}

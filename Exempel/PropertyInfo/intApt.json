@@ -1,0 +1,34 @@
+{
+    "apts": { // objekt som innehåller alla units med LVU-id som visas i navigatorn
+        "LVU001": { // objektets id måste vara LVU-id för att kunna koppla ihop med settings.json och vårt API
+            "typeAptId": "0", // Alla värden i det här objektet ska vara "0" eller tom sträng som i exemplet. 
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU002": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        },
+        "LVU003": {
+            "typeAptId": "0",
+            "viewId": "0",
+            "floor": "0",
+            "rooms": "0",
+            "size": "0",
+            "price": "0",
+            "fee": "0",
+            "available": ""
+        }
+    }
+}

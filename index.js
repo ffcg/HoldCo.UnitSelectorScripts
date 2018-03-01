@@ -50,7 +50,8 @@ jsonFiles.forEach(function (file, i) {
                     if (file.indexOf('settings') > -1) {
                         object['views']['2-1']['clickarea'][counter] = {
                             coords: coords,
-                            goTo: unit
+                            goTo: "apt:" + unit
+                            //goTo: "view:" + unit
                         };
 
                     } else if (file.indexOf('intApt') > -1) {
@@ -72,13 +73,14 @@ jsonFiles.forEach(function (file, i) {
             }
         });
 
-        units = [];
+        units = new Array();
         saveJson = JSON.stringify(object, null, 4);
 
         fs.writeFile(file, saveJson, function(err) {
             if(err) {
                 return console.log(err);
             }
+            counter = 0
         });
     });
 });

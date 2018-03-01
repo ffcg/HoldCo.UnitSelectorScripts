@@ -1,0 +1,71 @@
+{
+    "settings": {
+        "firstView": "2-1" // vilken vy som är första vyn som ska visas
+    },
+    "views": { // innehåller alla vyer
+        "2-1": { // ett objekt per vy
+            "viewId": "2-1", // id 
+            "name": "Namn på vy 2-1", // namn på vyn            
+            "father": "2-1", // parent till vyn, används för projekt som har en översiktsvy
+            "linked": true, // om vyn är länkad 
+            "interlink": { // innehåller ett eller två objekt för att kunna navigera runt 
+                "0": { 
+                    "arrowName": "Namn på nästa vy", // Namn på nästa vy, ska vara samma värde som name på objektet
+                    "toView": "view:2-2", // prefix + ett id på vyn som den ska länka till 
+                    "arrowDir": "1 left" // Om pilen i Navigatorn ska vara åt höger eller vänster
+                }
+            },
+            "clickarea": { 
+                "0": {
+                    "coords": "koordinater till klickarea", // hämtas idag från svg-fil
+                    "goTo": "länk till unit eller view" // hämtas idag från svg-fil, måste innehålla LVU-id
+                },
+                // exempel ->
+                "1": {
+                    "coords": "M955.373,370.722V413.229L876.831,415.253V369.854Z",
+                    "goTo": "apt:LVU0125263"
+                },
+                "2": {
+                    "coords": "M955.373,190.685L876.831,177.575V222.7L955.373,232.937Z",
+                    "goTo": "apt:LVU0125305"
+                },
+                "3": {
+                    "coords": "M955.373,132.441L876.831,114.9L876.832,177.575L955.373,190.685Z",
+                    "goTo": "apt:LVU0125307"
+                }
+            }
+        }, 
+        "2-2": { // nästa vy
+            "viewId": "2-2", 
+            "name": "Namn på vy 2-2",                        
+            "father": "2-2", // ingen översiktsvy så här sätts samma id som vyn
+            "linked": true,
+            "interlink": {
+                "0": {
+                    "arrowName": "Namn på nästa vy", // Namn på nästa vy, ska vara samma värde som name på objektet
+                    "toView": "view:2-1", // prefix + ett id på vyn som den ska länka till 
+                    "arrowDir": "1 right" // Om pilen i Navigatorn ska vara åt höger eller vänster
+                }
+            },
+            "clickarea": {
+                "0": {
+                    "coords": "koordinater till klickarea", // hämtas idag från svg-fil
+                    "goTo": "länk till unit eller view" // hämtas idag från svg-fil
+                },
+                // exempel
+                "1": {
+                    "coords": "M955.373,370.722V413.229L876.831,415.253V369.854Z",
+                    "goTo": "apt:LVU0125263"
+                },
+                "2": {
+                    "coords": "M955.373,190.685L876.831,177.575V222.7L955.373,232.937Z",
+                    "goTo": "apt:LVU0125305"
+                },
+                "3": {
+                    "coords": "M955.373,132.441L876.831,114.9L876.832,177.575L955.373,190.685Z",
+                    "goTo": "apt:LVU0125307"
+                }
+            }
+        }
+    }
+}
